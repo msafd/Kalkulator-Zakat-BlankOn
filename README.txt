@@ -1,0 +1,13 @@
+Zakat Calculator Indonesia (BlankOn)
+
+Created 2010 Fitra Aditya <fitra@idmail.or.id>
+Modified 2011 Ari Effendi <zerosix06@gmail.com>
+
+#Modified #1:
+-Add reset button
+
+#Modified #1:
+-Change TKinter to PyGtk + libGlade
+-Add Validation function (numeric only)
+-Add About Dialog
+-Colored message for Yes(green) and No(red)
